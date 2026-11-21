@@ -1,0 +1,6 @@
+{
+  "name": "Neon Air Hockey",
+  "description": "Competitive 2D dark neon arcade air hockey for mobile landscape with real-time online multiplayer and an unbeatable AI opponent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
